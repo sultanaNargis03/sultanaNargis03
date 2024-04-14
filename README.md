@@ -7,9 +7,6 @@ A passionate Java full stack developer
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nargissultana969@gmail.com](mailto:nargissultana969@gmail.com)
 
-<a href="https://www.github.com/sultanaNargis03" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sultanaNargis03?logo=github&style=for-the-badge&color=000000&labelColor=14532d" /></a>
-
 ### Skills
 
 
